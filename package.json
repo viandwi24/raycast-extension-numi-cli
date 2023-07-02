@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "numi-cli",
   "title": "Numi CLI",
-  "description": "Query Numi from raycast using numi-cli interface",
+  "description": "Query Numi from raycast using numi-cli",
   "icon": "numi-icon.png",
   "author": "viandwi24",
   "contributors": [
